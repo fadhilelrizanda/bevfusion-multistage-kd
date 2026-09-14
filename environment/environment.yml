@@ -1,0 +1,21 @@
+name: bevfusion-multistage-kd
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8.20
+  - pytorch=2.4.1
+  - torchvision=0.19.1
+  - cuda=12.0
+  - numpy=1.24.4
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+      - mmcv==2.1.0
+      - mmengine==0.10.7
+      - mmdet==3.3.0
+      - mmdet3d==1.4.0
+      - spconv-cu120==2.3.6
+      - wandb
