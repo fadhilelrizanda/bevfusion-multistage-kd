@@ -1,6 +1,6 @@
 # Multi-Stage Knowledge Distillation for Multimodal BEVFusion
 
-This repository is the public reproducibility bundle accompanying the manuscript, *Multi-Stage Knowledge Distillation for Real-Time Multimodal BEVFusion 3D Object Detection*, submitted to the *Journal of Real-Time Image Processing*.
+This repository is the public reproducibility bundle for the manuscript, *Multi-Stage Knowledge Distillation for Resource-Constrained Multimodal BEVFusion 3D Object Detection*, prepared for the *Journal of Real-Time Image Processing*.
 
 ## Scope and limitations
 
